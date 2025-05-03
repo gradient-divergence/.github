@@ -52,7 +52,7 @@ This GitHub organization hosts the source code for various projects, experiments
  
     <table>
       <tr>
-        <td width="80%">
+        <td width="60%">
           <strong>Featured Book:</strong><br>
           <a href="https://github.com/gradient-divergence/agentic-retail-foundations"><strong>Foundations of Agentic AI for Retail: Concepts, Technologies, and Architectures for Autonomous Retail Systems</strong></a> by Dr. Fatih Nayebi.
           <br><br>
@@ -62,9 +62,9 @@ This GitHub organization hosts the source code for various projects, experiments
           <br>
           <strong>Associated Code Repository:</strong> <a href="https://github.com/gradient-divergence/agentic-retail-foundations">gradient-divergence/agentic-retail-foundations</a>
         </td>
-        <td width="20%" align="center" valign="top">
+        <td width="40%" align="center" valign="center">
           <a href="https://www.amazon.com/Foundations-Agentic-Retail-Technologies-Architectures/dp/1069422606">
-            <img src="https://github.com/gradient-divergence/.github/blob/main/book-cover.png" alt="Book Cover: Foundations of Agentic AI for Retail" width="150"/>
+            <img src="https://github.com/gradient-divergence/.github/blob/main/book-cover.png" alt="Book Cover: Foundations of Agentic AI for Retail" width="300"/>
           </a>
         </td>
       </tr>

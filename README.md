@@ -2,8 +2,7 @@
 
 <p align="center">
   <a href="https://gradientdivergence.com/">
-    <img src="https://via.placeholder.com/150" alt="Gradient Divergence Logo Placeholder" />  
-    <!-- TODO: Replace with actual logo URL if available -->
+    <img src="https://github.com/gradient-divergence/.github/blob/main/1.png" alt="Gradient Divergence Logo Placeholder" />  
   </a>
 </p>
 
@@ -49,10 +48,10 @@ Explore our full range of [Offerings](https://gradientdivergence.com/offerings).
 This GitHub organization hosts the source code for various projects, experiments, and publications developed by Gradient Divergence and our community collaborators. Here you'll find:
 
 *   **Open Source Tools & Libraries:** Code related to our Agentic AI frameworks and other initiatives.
-*   **Project Examples:** Demonstrations and reference implementations like the `Shopping-Agent`.
-    *   [Shopping-Agent](https://github.com/gradient-divergence/Shopping-Agent): A SvelteKit-based shopping assistant application with Supabase and Tailwind CSS.
-*   **Publication Code:** Supporting codebases for our research papers and books, including the repository for the book published by Gradient Divergence.
-    *   _(Please add a link to the specific book repository here when available)_
+*   **Publication Code:** Supporting codebases for our research papers and books. This includes the repository for the book published by Gradient Divergence:
+    *   **[Foundations of Agentic AI for Retail: Concepts, Technologies, and Architectures for Autonomous Retail Systems](https://github.com/gradient-divergence/agentic-retail-foundations)** by Dr. Fatih Nayebi.
+        *   Purchase on Amazon: [US Store](https://www.amazon.com/Foundations-Agentic-Retail-Technologies-Architectures/dp/1069422606) | [CA Store](https://www.amazon.ca/Foundations-Agentic-Retail-Technologies-Architectures/dp/1069422606) (Also available on other regional Amazon sites)
+        *   Associated Code Repository: [gradient-divergence/agentic-retail-foundations](https://github.com/gradient-divergence/agentic-retail-foundations) <!-- Assuming this is the repo name -->
 
 We encourage exploration, contributions, and feedback on our public repositories!
 

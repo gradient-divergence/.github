@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gradientdivergence.com/">
-    <img src="https://github.com/gradient-divergence/.github/blob/main/1.png" alt="Gradient Divergence Logo Placeholder" />  
+    <img src="https://github.com/gradient-divergence/.github/blob/main/logo-banner.png" alt="Gradient Divergence Logo" />  
   </a>
 </p>
 
